@@ -6,12 +6,15 @@ I'm @Panther-Tebby, a software enthusiast with a keen interest in software devel
 🔭 **Current Focus**
 
 Learning and improving my skills in Java core programming.
+
 🌱 **What I'm Learning**
 
 Java programming to enhance my software development abilities.
+
 👯 **Looking to Collaborate**
 
 I'm eager to collaborate on Java and Python projects. If you have any cool ideas or ongoing projects, feel free to reach out!
+
 📫 **How to Reach Me**
 
 Email: tebogosekwala98@gmail.com
