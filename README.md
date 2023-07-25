@@ -18,7 +18,9 @@ I'm eager to collaborate on Java and Python projects. If you have any cool ideas
 📫 **How to Reach Me**
 
 Email: tebogosekwala98@gmail.com
+
 Contact Numbers: 0822329853
+
 Feel free to get in touch with me if you'd like to discuss ideas, seek assistance, or explore potential collaboration opportunities. Let's build something amazing together! 😄
 
 <!---
