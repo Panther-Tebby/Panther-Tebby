@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panther-Tebby
 - 👀 I’m interested in Front-End and Back-End Development 
-- 🌱 I’m currently learning Front-End Languages and their frameworks
+- 🌱 I’m currently learning Front-End and Back-End Languages and their frameworks
 - 💞️ I’m looking to collaborate on any bot front-end and back-end projects
 - 📫 How to reach me - Email: tebogosekwala98@gmail.com
                       - Contact number: 0812151866
