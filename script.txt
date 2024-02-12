@@ -1,0 +1,37 @@
+// Navigation Bar Component
+class Navbar {
+    private container: HTMLElement;
+
+    constructor() {
+        this.container = document.getElementById("home");
+    }
+
+    render() {
+        this.container.innerHTML = `
+            <div class="profile_name">
+                Tebogo Sekwala
+                <div class="contact_info">
+                    <img src="html_finalprojimages/envelope.png" alt="https://icons8.com/icon/124377/circled-envelope"/>
+                    tebogosekwala98@gmail.com
+                </div>
+                <div style="clear:both;"></div>
+                <div class="contact_info">
+                    <img src="html_finalprojimages/phone.png" alt="https://icons8.com/icon/124377/circled-envelope"/>
+                    0822329853
+                </div>
+            </div>
+            <div class="topdiv">
+                <a class="topmenu" href="#about-me">About Me</a>
+                <a class="topmenu" href="#skills">Skills</a>
+                <a class="topmenu" href="#projects">Projects</a>
+                <a class="topmenu" href="recommendation">Recommendation</a>
+            </div>
+        `;
+    }
+}
+
+// Initialize Navbar
+document.addEventListener("DOMContentLoaded", () => {
+    const navbar = new Navbar();
+    navbar.render();
+});
